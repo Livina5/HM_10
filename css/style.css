@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    font-family: "PT Sans", sans-serif;
+    margin:0 120px;
+}
+.container_header{
+    margin: 13px 120px 0px 120px;
+}
+.container_header_word{
+    display: flex;
+}
+
+.word_1{
+    font-family: "Tourney", sans-serif;
+    font-size: 22px;
+    margin-right: 60px;
+  
+}
+.word_2{
+    font-family: "Staatliches", sans-serif;
+    font-size: 22px;
+    margin-right: 601px;
+    letter-spacing: 1px;
+
+}
+.container{
+    margin: 150px 120px 0 120px;
+    font-size: 28px;
+}
+h2{
+    font-size: 36px;
+}
+.title{
+    font-family: "Francois One", sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.underline{
+    text-decoration: underline;
+}
+.color_background{
+    background-color: #dddddd;
+}
+.text_1{
+    margin-bottom: 70px;
+}
